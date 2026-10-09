@@ -1,0 +1,1 @@
+The first Space Invaders file is the game following the video assigned, the file called Space Lvl 2 is the modified version where multiple parts of the level as been changed and modified, which also includes a level 2 which is played right after all the aliens in level 1 is destroyed.
